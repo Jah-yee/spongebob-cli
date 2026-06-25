@@ -7,4 +7,4 @@ fi
 # Deletes spongebob-cli executable
 rm /usr/bin/spongebob-cli || rm /usr/local/bin/spongebob-cli 
 
-echo "spongebob-cli has been sucesfully uninstalled."
+echo "spongebob-cli has been successfully uninstalled."
